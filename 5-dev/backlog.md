@@ -9,6 +9,7 @@
 | BL-05 | F04 | Services overview | Story | Must | Done | BL-01 |
 | BL-06 | F05 | Contact page UI and validation | Story | Must | Done | BL-01 |
 | BL-07 | F05 | Contact inquiry API and owner notification | Story | Must | Done | BL-06 |
+| BL-08 | F02, F03 | Owner portrait asset | Story | Must | Done | BL-03, BL-04 |
 
 ## Suggested implementation order
 
@@ -19,6 +20,7 @@
 5. BL-05
 6. BL-06
 7. BL-07
+8. BL-08
 
 Respect **Dependencies** — a `BL-##` is not eligible until every listed dependency is `Done`.
 
@@ -35,18 +37,21 @@ flowchart TD
     BL05["BL-05 · Services"]
     BL06["BL-06 · Contact UI"]
     BL07["BL-07 · Contact API"]
+    BL08["BL-08 · Portrait asset"]
     BL01 --> BL02
     BL01 --> BL03
     BL01 --> BL04
     BL01 --> BL05
     BL01 --> BL06
     BL06 --> BL07
+    BL03 --> BL08
+    BL04 --> BL08
 
     classDef todo fill:#fef3c7,stroke:#d97706,color:#1f2937
     classDef inprogress fill:#dbeafe,stroke:#2563eb,color:#1f2937
     classDef done fill:#d1fae5,stroke:#059669,color:#1f2937
 
-    class BL01,BL02,BL03,BL04,BL05,BL06,BL07 done
+    class BL01,BL02,BL03,BL04,BL05,BL06,BL07,BL08 done
 ```
 
 | Status | Color |
@@ -64,6 +69,7 @@ flowchart TD
 | BL-05 | BL-01 | Services content in main slot |
 | BL-06 | BL-01 | Contact form UI; no API yet |
 | BL-07 | BL-06 | `POST /api/contact`, Resend, honeypot, rate limit |
+| BL-08 | BL-03, BL-04 | Portrait JPEG in `public/`; `portraitUrl` on Home and About |
 
 **Rules:** direct deps only; no transitive arrows; no cycles; **Depends on** = hard gate for implementation order.
 
@@ -172,3 +178,15 @@ flowchart TD
 - [x] Given a successful submit, when notification runs, then owner receives an email at `medvedeva19889@gmail.com` containing inquiry fields (FR-F05-06)
 - [x] Given a filled honeypot field, when POST is sent, then the server rejects the request without sending email (NFR-04, ADR-04)
 - [x] Given repeated submissions from the same IP beyond the rate limit, when POST is sent, then the server returns an error without sending email (NFR-04, ADR-04)
+
+## BL-08: Owner portrait asset {#bl-08}
+
+**Feature:** [F02-home-landing-page](../2-features/F02-home-landing-page.md), [F03-about-and-trust-content](../2-features/F03-about-and-trust-content.md)
+**Traces to:** [FR-F02-07](../2-features/F02-home-landing-page.md#functional-requirements), [FR-F03-08](../2-features/F03-about-and-trust-content.md#functional-requirements); [CMP-09](../4-design/design-strategy.md#cmp-09-portrait-frame)
+**Dependencies:** BL-03, BL-04
+**Tests:** [TC-03](testing-plan.md#tc-03), [TC-04](testing-plan.md#tc-04)
+**Mockups:** [MCK-02](../4-design/mockups.md#mck-02-home), [MCK-03](../4-design/mockups.md#mck-03-about)
+**Acceptance criteria:**
+- [x] Given a prepared portrait at `/owner-portrait.jpg`, when Home renders, then CMP-09 shows the image without layout shift (FR-F02-07)
+- [x] Given the same asset, when About renders, then CMP-09 shows the image without layout shift (FR-F03-08)
+- [x] Given the source file in `consultation/owner_photo.jpeg`, when the release asset is produced, then the original is unchanged and output is a separate file under `6-code/public/`

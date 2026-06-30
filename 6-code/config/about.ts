@@ -30,7 +30,7 @@ export const aboutPageContent: AboutPageContent = {
   positioningHeadline: "Международный медико-бизнес эксперт",
   positioningSubhead: "CEO / управляющий партнёр, 10+ лет",
   specialization: "ВРТ / ЭКО",
-  portraitUrl: null,
+  portraitUrl: "/owner-portrait.jpg",
   trustFigures: [
     {
       label: "10+ лет",

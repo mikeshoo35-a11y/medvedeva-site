@@ -33,7 +33,7 @@ export const homePageContent: HomePageContent = {
     title: "Владелец клиники",
     body: "Запуск отделения ЭКО — от лаборатории до регуляторики",
   },
-  portraitUrl: null,
+  portraitUrl: "/owner-portrait.jpg",
   ctaPrimary: { label: "Связаться", path: "/contact" },
   ctaSecondary: [
     { label: "Обо мне", path: "/about" },
