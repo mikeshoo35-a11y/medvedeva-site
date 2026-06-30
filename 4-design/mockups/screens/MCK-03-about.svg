@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1100" role="img" aria-labelledby="mck03-title mck03-desc">
+  <title id="mck03-title">MCK-03 About and trust content</title>
+  <desc id="mck03-desc">About page with positioning, trust figures, background narrative, and CTAs.</desc>
+  <rect width="1280" height="1100" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="64" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="40" y="40" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1070;&#1083;&#1080;&#1103; &#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1077;&#1074;&#1072;</text>
+  <text x="920" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B" font-weight="600">&#1054;&#1073;&#1086; &#1084;&#1085;&#1077;</text>
+  <line x1="920" y1="48" x2="1000" y2="48" stroke="#C9A962" stroke-width="2"/>
+  <rect x="80" y="100" width="240" height="320" rx="12" fill="#F7F5F2" stroke="#E8DCC4"/>
+  <text x="200" y="270" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#5C5C5C">Portrait</text>
+  <text x="360" y="150" font-family="Georgia, serif" font-size="32" fill="#1B3A4B">&#1052;&#1077;&#1078;&#1076;&#1091;&#1085;&#1072;&#1088;&#1086;&#1076;&#1085;&#1099;&#1081; &#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1090;</text>
+  <text x="360" y="200" font-family="system-ui, sans-serif" font-size="16" fill="#5C5C5C">CEO / &#1091;&#1087;&#1088;&#1072;&#1074;&#1083;&#1103;&#1102;&#1097;&#1080;&#1081; &#1087;&#1072;&#1088;&#1090;&#1085;&#1105;&#1088;, 10+ &#1083;&#1077;&#1090;</text>
+  <text x="360" y="240" font-family="system-ui, sans-serif" font-size="16" fill="#5C5C5C">&#1042;&#1056;&#1058; / &#1069;&#1050;&#1054;</text>
+  <rect x="0" y="460" width="1280" height="200" fill="#F7F5F2"/>
+  <text x="80" y="510" font-family="Georgia, serif" font-size="28" fill="#C9A962">10+</text>
+  <text x="80" y="540" font-family="system-ui, sans-serif" font-size="13" fill="#5C5C5C">&#1083;&#1077;&#1090; &#1086;&#1087;&#1099;&#1090;&#1072;</text>
+  <text x="360" y="510" font-family="Georgia, serif" font-size="28" fill="#C9A962">50+</text>
+  <text x="360" y="540" font-family="system-ui, sans-serif" font-size="13" fill="#5C5C5C">&#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1086;&#1074;</text>
+  <text x="640" y="510" font-family="Georgia, serif" font-size="28" fill="#C9A962">3</text>
+  <text x="640" y="540" font-family="system-ui, sans-serif" font-size="13" fill="#5C5C5C">&#1088;&#1099;&#1085;&#1082;&#1072;</text>
+  <text x="920" y="510" font-family="Georgia, serif" font-size="28" fill="#C9A962">EU</text>
+  <text x="920" y="540" font-family="system-ui, sans-serif" font-size="13" fill="#5C5C5C">&#1087;&#1086;&#1076;&#1093;&#1086;&#1076;&#1099;</text>
+  <text x="80" y="720" font-family="Georgia, serif" font-size="26" fill="#1B3A4B">&#1041;&#1080;&#1086;&#1075;&#1088;&#1072;&#1092;&#1080;&#1103;</text>
+  <rect x="80" y="740" width="560" height="12" rx="4" fill="#E2DDD6"/>
+  <rect x="80" y="762" width="520" height="12" rx="4" fill="#E2DDD6"/>
+  <rect x="80" y="784" width="480" height="12" rx="4" fill="#E2DDD6"/>
+  <text x="80" y="860" font-family="Georgia, serif" font-size="26" fill="#1B3A4B">&#1052;&#1080;&#1089;&#1089;&#1080;&#1103;</text>
+  <rect x="80" y="880" width="500" height="12" rx="4" fill="#E2DDD6"/>
+  <rect x="80" y="920" width="160" height="44" rx="8" fill="none" stroke="#1B3A4B"/>
+  <text x="105" y="948" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <rect x="260" y="920" width="160" height="44" rx="8" fill="#1B3A4B"/>
+  <text x="285" y="948" font-family="system-ui, sans-serif" font-size="14" fill="#FFFFFF">&#1057;&#1074;&#1103;&#1079;&#1072;&#1090;&#1100;&#1089;&#1103;</text>
+  <rect x="0" y="1020" width="1280" height="80" fill="#122833"/>
+</svg>

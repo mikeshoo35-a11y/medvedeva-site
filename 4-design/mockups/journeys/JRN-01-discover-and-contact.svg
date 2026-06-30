@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" role="img" aria-labelledby="jrn01-title jrn01-desc">
+  <title id="jrn01-title">JRN-01 Discover expertise and request consultation</title>
+  <desc id="jrn01-desc">Visual flow from home through about and services to contact form submission.</desc>
+  <rect width="1280" height="400" fill="#F7F5F2"/>
+  <text x="40" y="40" font-family="Georgia, serif" font-size="22" fill="#1B3A4B">JRN-01: SCN-01</text>
+  <rect x="40" y="70" width="260" height="200" rx="8" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="170" y="100" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#1B3A4B" font-weight="600">MCK-02</text>
+  <text x="170" y="130" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5C5C5C">Home</text>
+  <polygon points="310,170 340,170 325,155" fill="#C9A962"/>
+  <rect x="350" y="70" width="260" height="200" rx="8" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="480" y="100" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#1B3A4B" font-weight="600">MCK-03</text>
+  <text x="480" y="130" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5C5C5C">About</text>
+  <polygon points="620,170 650,170 635,155" fill="#C9A962"/>
+  <rect x="660" y="70" width="260" height="200" rx="8" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="790" y="100" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#1B3A4B" font-weight="600">MCK-04</text>
+  <text x="790" y="130" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5C5C5C">Services</text>
+  <polygon points="930,170 960,170 945,155" fill="#C9A962"/>
+  <rect x="970" y="70" width="260" height="200" rx="8" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="1100" y="100" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#1B3A4B" font-weight="600">MCK-05</text>
+  <text x="1100" y="130" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5C5C5C">Contact</text>
+  <text x="640" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5C5C5C">Alt: header/footer nav (MCK-01) or mobile drawer (MCK-06) at any step</text>
+</svg>

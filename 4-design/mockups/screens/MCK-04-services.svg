@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1200" role="img" aria-labelledby="mck04-title mck04-desc">
+  <title id="mck04-title">MCK-04 Services overview</title>
+  <desc id="mck04-desc">Services page with intro, three pillars, and audience segment blocks.</desc>
+  <rect width="1280" height="1200" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="64" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="40" y="40" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1070;&#1083;&#1080;&#1103; &#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1077;&#1074;&#1072;</text>
+  <text x="1020" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B" font-weight="600">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <line x1="1020" y1="48" x2="1090" y2="48" stroke="#C9A962" stroke-width="2"/>
+  <text x="80" y="120" font-family="Georgia, serif" font-size="30" fill="#1B3A4B">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <rect x="80" y="140" width="700" height="12" rx="4" fill="#E2DDD6"/>
+  <rect x="80" y="162" width="640" height="12" rx="4" fill="#E2DDD6"/>
+  <rect x="80" y="220" width="360" height="200" rx="12" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="100" y="260" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1055;&#1086;&#1076; &#1082;&#1083;&#1102;&#1095;</text>
+  <rect x="460" y="220" width="360" height="200" rx="12" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="480" y="260" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1069;&#1050;&#1054; / &#1042;&#1056;&#1058;</text>
+  <rect x="840" y="220" width="360" height="200" rx="12" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="860" y="260" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1040;&#1091;&#1076;&#1080;&#1090;</text>
+  <rect x="80" y="480" width="560" height="160" rx="12" fill="#F7F5F2" stroke="#E8DCC4"/>
+  <line x1="80" y1="480" x2="80" y2="640" stroke="#C9A962" stroke-width="3"/>
+  <text x="100" y="520" font-family="Georgia, serif" font-size="22" fill="#1B3A4B">&#1048;&#1085;&#1074;&#1077;&#1089;&#1090;&#1086;&#1088;</text>
+  <rect x="660" y="480" width="560" height="160" rx="12" fill="#F7F5F2" stroke="#E8DCC4"/>
+  <line x1="660" y1="480" x2="660" y2="640" stroke="#C9A962" stroke-width="3"/>
+  <text x="680" y="520" font-family="Georgia, serif" font-size="22" fill="#1B3A4B">&#1042;&#1083;&#1072;&#1076;&#1077;&#1083;&#1077;&#1094; &#1082;&#1083;&#1080;&#1085;&#1080;&#1082;&#1080;</text>
+  <rect x="80" y="680" width="1120" height="120" rx="12" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="100" y="720" font-family="Georgia, serif" font-size="18" fill="#1B3A4B">&#1042;&#1088;&#1072;&#1095;-&#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1090;</text>
+  <text x="100" y="750" font-family="system-ui, sans-serif" font-size="13" fill="#5C5C5C">supporting tier</text>
+  <rect x="80" y="860" width="200" height="48" rx="8" fill="#1B3A4B"/>
+  <text x="115" y="890" font-family="system-ui, sans-serif" font-size="14" fill="#FFFFFF">&#1057;&#1074;&#1103;&#1079;&#1072;&#1090;&#1100;&#1089;&#1103;</text>
+  <rect x="0" y="1120" width="1280" height="80" fill="#122833"/>
+</svg>

@@ -1,0 +1,44 @@
+# Repository publish scope: numbered product folders only (1-scope … 6-code).
+# Local/internal paths (.cursor, consultation, root notes) stay off GitHub.
+
+# Ignore everything at repository root
+/*
+
+# Keep root gitignore, readme, and numbered folders
+!.gitignore
+!README.md
+!1-scope/
+!2-features/
+!3-arch/
+!4-design/
+!5-dev/
+!6-code/
+
+# Include contents inside allowed folders
+!1-scope/**
+!2-features/**
+!3-arch/**
+!4-design/**
+!5-dev/**
+!6-code/**
+
+# Internal / local (never publish)
+.cursor/
+consultation/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# Logs and temp
+*.log
+*.tmp
+.cache/

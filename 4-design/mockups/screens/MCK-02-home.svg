@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 960" role="img" aria-labelledby="mck02-title mck02-desc">
+  <title id="mck02-title">MCK-02 Home landing page</title>
+  <desc id="mck02-desc">Home hero with positioning, portrait, segment teasers, and calls to action.</desc>
+  <rect width="1280" height="960" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="64" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="40" y="40" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1070;&#1083;&#1080;&#1103; &#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1077;&#1074;&#1072;</text>
+  <text x="820" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B" font-weight="600">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;</text>
+  <line x1="820" y1="48" x2="890" y2="48" stroke="#C9A962" stroke-width="2"/>
+  <text x="920" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1054;&#1073;&#1086; &#1084;&#1085;&#1077;</text>
+  <text x="1020" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <text x="1120" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1099;</text>
+  <text x="80" y="140" font-family="Georgia, serif" font-size="36" fill="#1B3A4B">&#1052;&#1077;&#1076;&#1080;&#1082;&#1086;-&#1073;&#1080;&#1079;&#1085;&#1077;&#1089; &#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1090;</text>
+  <text x="80" y="190" font-family="system-ui, sans-serif" font-size="18" fill="#5C5C5C">&#1042;&#1056;&#1058; / &#1069;&#1050;&#1054; &#1080; &#1082;&#1083;&#1080;&#1085;&#1080;&#1082;&#1080; &#1087;&#1086;&#1076; &#1082;&#1083;&#1102;&#1095;</text>
+  <text x="80" y="230" font-family="system-ui, sans-serif" font-size="15" fill="#5C5C5C">&#1056;&#1060;, &#1050;&#1072;&#1079;&#1072;&#1093;&#1089;&#1090;&#1072;&#1085;, &#1059;&#1079;&#1073;&#1077;&#1082;&#1080;&#1089;&#1090;&#1072;&#1085;</text>
+  <rect x="80" y="260" width="160" height="44" rx="8" fill="#1B3A4B"/>
+  <text x="120" y="288" font-family="system-ui, sans-serif" font-size="14" fill="#FFFFFF">&#1057;&#1074;&#1103;&#1079;&#1072;&#1090;&#1100;&#1089;&#1103;</text>
+  <rect x="260" y="260" width="140" height="44" rx="8" fill="none" stroke="#1B3A4B"/>
+  <text x="285" y="288" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B">&#1054;&#1073;&#1086; &#1084;&#1085;&#1077;</text>
+  <rect x="420" y="260" width="140" height="44" rx="8" fill="none" stroke="#1B3A4B"/>
+  <text x="435" y="288" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <rect x="820" y="100" width="280" height="360" rx="12" fill="#F7F5F2" stroke="#E8DCC4"/>
+  <text x="960" y="290" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#5C5C5C">Portrait</text>
+  <rect x="80" y="500" width="540" height="180" rx="12" fill="#F7F5F2" stroke="#E8DCC4"/>
+  <text x="100" y="540" font-family="Georgia, serif" font-size="22" fill="#1B3A4B">&#1048;&#1085;&#1074;&#1077;&#1089;&#1090;&#1086;&#1088;</text>
+  <text x="100" y="580" font-family="system-ui, sans-serif" font-size="14" fill="#5C5C5C">&#1050;&#1083;&#1080;&#1085;&#1080;&#1082;&#1072; &#1087;&#1086;&#1076; &#1082;&#1083;&#1102;&#1095;</text>
+  <rect x="660" y="500" width="540" height="180" rx="12" fill="#F7F5F2" stroke="#E8DCC4"/>
+  <text x="680" y="540" font-family="Georgia, serif" font-size="22" fill="#1B3A4B">&#1042;&#1083;&#1072;&#1076;&#1077;&#1083;&#1077;&#1094; &#1082;&#1083;&#1080;&#1085;&#1080;&#1082;&#1080;</text>
+  <text x="680" y="580" font-family="system-ui, sans-serif" font-size="14" fill="#5C5C5C">&#1047;&#1072;&#1087;&#1091;&#1089;&#1082; &#1086;&#1090;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1103; &#1069;&#1050;&#1054;</text>
+  <rect x="0" y="880" width="1280" height="80" fill="#122833"/>
+  <text x="700" y="928" font-family="system-ui, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.85">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;  &#1054;&#1073;&#1086; &#1084;&#1085;&#1077;  &#1059;&#1089;&#1083;&#1091;&#1075;&#1080;  &#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1099;</text>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 780" role="img" aria-labelledby="mck06-title mck06-desc">
+  <title id="mck06-title">MCK-06 Mobile navigation drawer open</title>
+  <desc id="mck06-desc">Mobile viewport with hamburger menu open showing vertical navigation links.</desc>
+  <rect width="360" height="780" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="360" height="56" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="16" y="36" font-family="Georgia, serif" font-size="16" fill="#1B3A4B">&#1070;. &#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1077;&#1074;&#1072;</text>
+  <rect x="312" y="16" width="32" height="24" rx="4" fill="none" stroke="#1B3A4B"/>
+  <line x1="318" y1="22" x2="338" y2="22" stroke="#1B3A4B" stroke-width="2"/>
+  <line x1="318" y1="28" x2="338" y2="28" stroke="#1B3A4B" stroke-width="2"/>
+  <line x1="318" y1="34" x2="338" y2="34" stroke="#1B3A4B" stroke-width="2"/>
+  <rect x="0" y="56" width="360" height="724" fill="#122833" fill-opacity="0.4"/>
+  <rect x="120" y="56" width="240" height="724" fill="#FFFFFF"/>
+  <text x="144" y="110" font-family="system-ui, sans-serif" font-size="18" fill="#1B3A4B" font-weight="600">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;</text>
+  <text x="144" y="160" font-family="system-ui, sans-serif" font-size="18" fill="#1A1A1A">&#1054;&#1073;&#1086; &#1084;&#1085;&#1077;</text>
+  <text x="144" y="210" font-family="system-ui, sans-serif" font-size="18" fill="#1A1A1A">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <text x="144" y="260" font-family="system-ui, sans-serif" font-size="18" fill="#1A1A1A">&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1099;</text>
+  <rect x="0" y="700" width="360" height="80" fill="#122833"/>
+  <text x="16" y="748" font-family="system-ui, sans-serif" font-size="11" fill="#FFFFFF" opacity="0.85">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;  &#1054;&#1073;&#1086; &#1084;&#1085;&#1077;</text>
+</svg>

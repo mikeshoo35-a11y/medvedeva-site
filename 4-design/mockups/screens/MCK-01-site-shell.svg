@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img" aria-labelledby="mck01-title mck01-desc">
+  <title id="mck01-title">MCK-01 Site shell header and footer</title>
+  <desc id="mck01-desc">Desktop site chrome with identity, primary navigation, empty main content slot, and footer nav.</desc>
+  <rect width="1280" height="800" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="64" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="40" y="40" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1070;&#1083;&#1080;&#1103; &#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1077;&#1074;&#1072;</text>
+  <text x="820" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B" font-weight="600">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;</text>
+  <line x1="820" y1="48" x2="890" y2="48" stroke="#C9A962" stroke-width="2"/>
+  <text x="920" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1054;&#1073;&#1086; &#1084;&#1085;&#1077;</text>
+  <text x="1020" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <text x="1120" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1099;</text>
+  <rect x="160" y="120" width="960" height="520" fill="#F7F5F2" stroke="#E2DDD6" stroke-dasharray="8 4"/>
+  <text x="640" y="390" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#5C5C5C">Main content slot (F02-F05)</text>
+  <rect x="0" y="720" width="1280" height="80" fill="#122833"/>
+  <text x="40" y="768" font-family="Georgia, serif" font-size="16" fill="#FFFFFF" opacity="0.9">&#1070;&#1083;&#1080;&#1103; &#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1077;&#1074;&#1072;</text>
+  <text x="700" y="768" font-family="system-ui, sans-serif" font-size="13" fill="#FFFFFF" opacity="0.85">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;  &#1054;&#1073;&#1086; &#1084;&#1085;&#1077;  &#1059;&#1089;&#1083;&#1091;&#1075;&#1080;  &#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1099;</text>
+</svg>

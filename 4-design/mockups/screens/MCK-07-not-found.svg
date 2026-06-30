@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img" aria-labelledby="mck07-title mck07-desc">
+  <title id="mck07-title">MCK-07 Not found page</title>
+  <desc id="mck07-desc">Branded 404 page inside site shell with link back to home.</desc>
+  <rect width="1280" height="800" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1280" height="64" fill="#FFFFFF" stroke="#E2DDD6"/>
+  <text x="40" y="40" font-family="Georgia, serif" font-size="20" fill="#1B3A4B">&#1070;&#1083;&#1080;&#1103; &#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1077;&#1074;&#1072;</text>
+  <text x="820" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1043;&#1083;&#1072;&#1074;&#1085;&#1072;&#1103;</text>
+  <text x="920" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1054;&#1073;&#1086; &#1084;&#1085;&#1077;</text>
+  <text x="1020" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1059;&#1089;&#1083;&#1091;&#1075;&#1080;</text>
+  <text x="1120" y="40" font-family="system-ui, sans-serif" font-size="14" fill="#1A1A1A">&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1099;</text>
+  <text x="640" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#1B3A4B">404</text>
+  <text x="640" y="410" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#5C5C5C">&#1057;&#1090;&#1088;&#1072;&#1085;&#1080;&#1094;&#1072; &#1085;&#1077; &#1085;&#1072;&#1081;&#1076;&#1077;&#1085;&#1072;</text>
+  <rect x="540" y="440" width="200" height="44" rx="8" fill="none" stroke="#1B3A4B"/>
+  <text x="590" y="468" font-family="system-ui, sans-serif" font-size="14" fill="#1B3A4B">&#1053;&#1072; &#1075;&#1083;&#1072;&#1074;&#1085;&#1091;&#1102;</text>
+  <rect x="0" y="720" width="1280" height="80" fill="#122833"/>
+</svg>
